@@ -1,0 +1,11 @@
+html {
+    border: 2px solid green;
+    height: 80%;
+}
+
+body {
+    border: 2px solid red;
+    height: 100%;
+    margin: 0px;
+}
+
